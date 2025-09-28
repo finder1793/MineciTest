@@ -5,7 +5,7 @@
 ################################################################
 
 ATTACK_DAMAGE:
-  Enabled: false
+  Enabled: true
   AlwaysActive: false
   Display: 'Damage'
   Formatting:
